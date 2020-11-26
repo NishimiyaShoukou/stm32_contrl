@@ -1,0 +1,31 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [shoubing.PrjPCB]
+   Generated File[shoubing.GTO]
+   Generated File[shoubing.GTP]
+   Generated File[shoubing.GTS]
+   Generated File[shoubing.GTL]
+   Generated File[shoubing.GBL]
+   Generated File[shoubing.GBS]
+   Generated File[shoubing.GBP]
+   Generated File[shoubing.GBO]
+   Generated File[shoubing.GM1]
+   Generated File[shoubing.GM2]
+   Generated File[shoubing.GM13]
+   Generated File[shoubing.GM15]
+   Generated File[shoubing.GKO]
+   Generated File[shoubing.GPT]
+   Generated File[shoubing.GPB]
+   Generated File[shoubing.GML]
+   Generated File[shoubing.1]
+   Generated File[shoubing.GD1]
+   Generated File[shoubing.GG1]
+   Generated File[shoubing.RUL]
+   Generated File[shoubing.EXTREP]
+   Generated File[shoubing.REP]
+
+
+Files Generated   : 22
+Documents Printed : 0
+
+Finished Output Generation At 9:09:57 On 2020/11/25
