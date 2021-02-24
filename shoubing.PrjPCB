@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=MVVDAHMZ
 
 [Document2]
-DocumentPath=shoubing.PcbDoc
+DocumentPath=joy.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,10 +69,10 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VFCXNCUD
+DocumentUniqueId=ELKGACWP
 
 [Document3]
-DocumentPath=cam\CAMtastic1.Cam
+DocumentPath=..\..\Altium\AD19\Library\分类齐全\PSP摇杆.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -86,97 +86,118 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=AANBAKAT
+
+[Document4]
+DocumentPath=..\..\Altium\AD19\Library\分类齐全\PSP摇杆.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KYYFGOXO
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for shoubing\Design Rule Check - shoubing.html
+DocumentPath=Project Outputs for shoubing\Design Rule Check - joy.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for shoubing\shoubing.1
+DocumentPath=Project Outputs for shoubing\Design Rule Check - shoubing.html
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for shoubing\shoubing.EXTREP
+DocumentPath=Project Outputs for shoubing\shoubing.1
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for shoubing\shoubing.GBL
+DocumentPath=Project Outputs for shoubing\shoubing.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for shoubing\shoubing.GBO
+DocumentPath=Project Outputs for shoubing\shoubing.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for shoubing\shoubing.GBP
+DocumentPath=Project Outputs for shoubing\shoubing.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for shoubing\shoubing.GBS
+DocumentPath=Project Outputs for shoubing\shoubing.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for shoubing\shoubing.GD1
+DocumentPath=Project Outputs for shoubing\shoubing.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for shoubing\shoubing.GG1
+DocumentPath=Project Outputs for shoubing\shoubing.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for shoubing\shoubing.GKO
+DocumentPath=Project Outputs for shoubing\shoubing.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for shoubing\shoubing.GM1
+DocumentPath=Project Outputs for shoubing\shoubing.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for shoubing\shoubing.GM2
+DocumentPath=Project Outputs for shoubing\shoubing.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for shoubing\shoubing.GM13
+DocumentPath=Project Outputs for shoubing\shoubing.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for shoubing\shoubing.GM15
+DocumentPath=Project Outputs for shoubing\shoubing.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for shoubing\shoubing.GML
+DocumentPath=Project Outputs for shoubing\shoubing.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for shoubing\shoubing.GPB
+DocumentPath=Project Outputs for shoubing\shoubing.GML
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for shoubing\shoubing.GPT
+DocumentPath=Project Outputs for shoubing\shoubing.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for shoubing\shoubing.GTL
+DocumentPath=Project Outputs for shoubing\shoubing.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for shoubing\shoubing.GTO
+DocumentPath=Project Outputs for shoubing\shoubing.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for shoubing\shoubing.GTP
+DocumentPath=Project Outputs for shoubing\shoubing.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for shoubing\shoubing.GTS
+DocumentPath=Project Outputs for shoubing\shoubing.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for shoubing\shoubing.REP
+DocumentPath=Project Outputs for shoubing\shoubing.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=Project Outputs for shoubing\shoubing.REP
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs for shoubing\shoubing.RUL
 DItemRevisionGUID=
 
