@@ -1,0 +1,43 @@
+CMSIS_AGDI.DLL - CMSIS-DAP Driver Log
+
+21:49:17:019 (24/02/2021) - START SEQUENCE "InitTarget", "default" - ID 0
+21:49:17:019 (24/02/2021) - START SEQUENCE "InitInternals", "default" - ID 1
+21:49:17:019 (24/02/2021) - START SEQUENCE "InitDriver", "default" - ID 2
+21:49:17:019 (24/02/2021) - END SEQUENCE "InitDriver", "success" - ID 3
+21:49:17:019 (24/02/2021) - START SEQUENCE "InitDebugger", "default" - ID 4
+21:49:17:104 (24/02/2021) - END SEQUENCE "InitDebugger", "success" - ID 5
+21:49:17:104 (24/02/2021) - END SEQUENCE "InitInternals", "success" - ID 6
+21:49:17:104 (24/02/2021) - START SEQUENCE "DebugPortSetup", "default" - ID 7
+21:49:17:120 (24/02/2021) - END SEQUENCE "DebugPortSetup", "success" - ID 8
+21:49:17:121 (24/02/2021) - START SEQUENCE "DebugGetDeviceList", "default" - ID 9
+21:49:17:128 (24/02/2021) - END SEQUENCE "DebugGetDeviceList", "success" - ID 10
+21:49:17:128 (24/02/2021) - START SEQUENCE "PDSCDebug_DebugGetDeviceNames", "default" - ID 11
+21:49:17:128 (24/02/2021) - END SEQUENCE "PDSCDebug_DebugGetDeviceNames", "success" - ID 12
+  21:49:17:128 (24/02/2021) - START SEQUENCE "DebugPortStart", "default" - ID 13
+  21:49:17:140 (24/02/2021) - END SEQUENCE "DebugPortStart", "success" - ID 14
+  21:49:17:151 (24/02/2021) - READ  AP  Access, AP 0x00000000, Addr 0x000000FC, Val 0x24770011, "SWD Read AP - Success" - ID 0
+21:49:17:170 (24/02/2021) - START SEQUENCE "DebugReadDAPFeatures", "default" - ID 15
+21:49:17:170 (24/02/2021) - START SEQUENCE "_EvalDPID", "default" - ID 16
+21:49:17:170 (24/02/2021) - END SEQUENCE "_EvalDPID", "success" - ID 17
+21:49:17:173 (24/02/2021) - WRITE DP  Access, Addr 0x00000008, Val 0x00000000, "DAP Write DP - Success" - ID 1
+21:49:17:177 (24/02/2021) - WRITE AP  Access, AP 0x00000000, Addr 0x00000000, Val 0x23000052, "DAP Write AP - Success" - ID 2
+21:49:17:177 (24/02/2021) - END SEQUENCE "DebugReadDAPFeatures", "success" - ID 18
+21:49:17:177 (24/02/2021) - START SEQUENCE "DebugDeviceUnlock", "calling sequence" - ID 19
+21:49:17:185 (24/02/2021) - READ  AP  Access, AP 0x00000000, Addr 0x000000F8, Val 0xE00FF003, "DAP Read AP - Success" - ID 3
+21:49:17:199 (24/02/2021) - READ  MEM BLOCK Access, AP 0x00000000, Start Addr 0xE00FFFE4, End Addr 0xE00FFFE7, "DAP Read Memory Block (32-bit accesses) - Success" - ID 4
+  Item #0, AP 0, Addr 0xE00FFFE4, Value 0x00000052
+21:49:17:208 (24/02/2021) - READ  MEM BLOCK Access, AP 0x00000000, Start Addr 0xE00FFFE8, End Addr 0xE00FFFEB, "DAP Read Memory Block (32-bit accesses) - Success" - ID 5
+  Item #0, AP 0, Addr 0xE00FFFE8, Value 0x00000005
+21:49:22:080 (24/02/2021) - END SEQUENCE "InitTarget", "failed" - ID 20
+21:49:22:080 (24/02/2021) - START SEQUENCE "StopTarget", "default" - ID 21
+21:49:22:091 (24/02/2021) - WRITE MEM BLOCK Access, AP 0x00000000, Start Addr 0x00000000, End Addr 0x00000007, "DAP Write Memory Block - FAILED" - ID 6
+21:49:22:091 (24/02/2021) - START SEQUENCE "_UnInitTrace", "default" - ID 22
+21:49:22:091 (24/02/2021) - END SEQUENCE "_UnInitTrace", "success" - ID 23
+21:49:22:091 (24/02/2021) - START SEQUENCE "DebugPortStop", "default" - ID 24
+21:49:22:093 (24/02/2021) - WRITE DP  Access, Addr 0x00000004, Val 0x00000000, "DAP Write DP - Success" - ID 7
+21:49:22:093 (24/02/2021) - END SEQUENCE "DebugPortStop", "success" - ID 25
+21:49:22:093 (24/02/2021) - START SEQUENCE "UnInitDebugger", "default" - ID 26
+21:49:22:100 (24/02/2021) - END SEQUENCE "UnInitDebugger", "success" - ID 27
+21:49:22:100 (24/02/2021) - START SEQUENCE "_UnInitDriver", "default" - ID 28
+21:49:22:100 (24/02/2021) - END SEQUENCE "_UnInitDriver", "success" - ID 29
+21:49:22:100 (24/02/2021) - END SEQUENCE "StopTarget", "success" - ID 30
